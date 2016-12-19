@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_friendslist.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_friendslist.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_cc.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_cc.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_allfriends.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_allfriends.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_start_conversation.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_start_conversation.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_emoticons.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_emoticons.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi\\ic_menu_myplaces.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-mdpi\\ic_menu_myplaces.png"
+    }
+]

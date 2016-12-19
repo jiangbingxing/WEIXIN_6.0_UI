@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\weixin.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xhdpi\\weixin.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iconfont_friend.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_friend.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iconfont_find.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_find.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iconfont_chat.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_chat.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iconfont_me.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_me.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\iconfont_faxian.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xhdpi\\iconfont_faxian.png"
+    }
+]

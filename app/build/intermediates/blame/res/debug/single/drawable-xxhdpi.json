@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ofm_group_chat_icon.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xxhdpi\\ofm_group_chat_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_add_icon.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_add_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_launcher.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\actionbar_search_icon.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xxhdpi\\actionbar_search_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ofm_feedback_icon.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xxhdpi\\ofm_feedback_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ofm_qrcode_icon.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xxhdpi\\ofm_qrcode_icon.png"
+    },
+    {
+        "merged": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ofm_add_icon.png",
+        "source": "C:\\Users\\jack\\AndroidStudioProjects\\Demo_zhy_15_weixin_6_0_ui41\\app\\src\\main\\res\\drawable-xxhdpi\\ofm_add_icon.png"
+    }
+]
